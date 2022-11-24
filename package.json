@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/NoahDelophont/react-color-package/issues"
   },
-  "homepage": "https://github.com/NoahDelophont/react-color-package#readme"
+  "homepage": "https://github.com/NoahDelophont/react-color-package#readme",
+  "publishConfig": {
+    "@NoahDelophont:registry": "https://npm.pkg.github.com"
+  }
 }
