@@ -1,0 +1,22 @@
+{
+  "name": "react-color-package",
+  "version": "1.0.0",
+  "description": "React Color package with Nuurek fix https://github.com/Nuurek/react-color to make the input work even in the shadow DOM",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoahDelophont/react-color-package.git"
+  },
+  "keywords": [
+    "react-color"
+  ],
+  "author": "Noah Delophont x Nuurek x Casesandberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoahDelophont/react-color-package/issues"
+  },
+  "homepage": "https://github.com/NoahDelophont/react-color-package#readme"
+}
