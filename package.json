@@ -6,7 +6,7 @@
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/casesandberg/react-color.git"
+    "url": "git+https://github.com/NoahDelophont/react-color-package.git"
   },
   "author": "Noah Delophont x Nuurek x Casesandberg",
   "license": "MIT",
