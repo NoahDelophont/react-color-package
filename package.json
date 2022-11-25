@@ -1,5 +1,5 @@
 {
-  "name": "@NoahDelophont/react-color",
+  "name": "@NoahDelophont/react-color-package",
   "version": "2.19.3",
   "description": "React Color package with Nuurek fix https://github.com/Nuurek/react-color to make the input work even in the shadow DOM",
   "main": "lib/index.js",
